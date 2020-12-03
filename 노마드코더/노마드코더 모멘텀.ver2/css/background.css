@@ -1,0 +1,8 @@
+.bgimage{
+    position: absolute; /*부모 태그 혹은 최상위 태그를 기준으로 잡음*/
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /*z축 위치 지정(가장 아래로 해야되서 -1로 잡은 것*/
+}

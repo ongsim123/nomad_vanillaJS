@@ -1,0 +1,12 @@
+.css-todoList{
+    margin-bottom: 30px;
+}
+
+.add_todo{
+    font-size: 22px;
+}
+
+.del_btn{
+    margin-right: 10px;
+    cursor: pointer;
+}

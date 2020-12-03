@@ -1,0 +1,32 @@
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.center .css-name{
+    margin-bottom: 30px;
+}
+
+.center .nameInput{
+    appearance: none;
+    background: none;
+    border: none;
+    font-size: 36px;
+    text-align: center;
+    border-bottom: 3px solid rgba(255,255, 255, 0.8);
+    margin-bottom: 20px;
+}
+
+.center .nameInput::placeholder{
+    color: white;
+    opacity: 0.7; /*투명도*/
+}
+.center .nameInput:focus,
+.center .nameInput:active{
+    outline: none;
+}
+.center .nameText{
+    font-size: 36px;
+    margin-bottom: 20px;
+}

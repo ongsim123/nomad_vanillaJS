@@ -1,0 +1,16 @@
+.css-todo{
+    color: white;
+    text-align: center;
+    background: none;
+    border: none;
+}
+
+.css-js-todolist{
+    color: white;
+    list-style-type: none;
+    text-align: center;
+    font-size: 2em;
+}
+.css-js-todolist-deletebutton{
+    cursor: pointer;
+}
